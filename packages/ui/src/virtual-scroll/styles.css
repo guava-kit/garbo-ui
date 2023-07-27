@@ -1,9 +1,0 @@
-.virtual-scroll-vertical {
-  display: flex;
-}
-
-.virtual-scroll-horizontal {
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-}
